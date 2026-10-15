@@ -53,9 +53,3 @@ Abra o endereço HTTPS informado no terminal e acrescente `/swagger` para acessa
 
 Os IDs são gerados automaticamente. Campos obrigatórios e formato do e-mail são validados; o cadastro de pet retorna erro quando o cliente informado não existe.
 
-## Publicar no GitHub e entregar
-
-1. Crie um repositório público chamado `LH-Pets` no GitHub.
-2. Envie os arquivos desta pasta para o repositório (não envie as pastas `bin` ou `obj`).
-3. Abra o repositório em uma janela anônima para confirmar que está público.
-4. Copie o link do repositório e cole na caixa de texto da atividade no AVA antes do vencimento.
